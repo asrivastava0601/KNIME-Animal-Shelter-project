@@ -13,3 +13,5 @@ Model prototype creation using KNIME workflow to predict the outcome (classifica
 4. Model selection - Random forest was selected after comparing the results of Decision Tree, Naive bayes.
 5. Cross validation for the hyper-parameter tuning.
 Application:- The created model can be used for prediction of most severe cases like euthanasia and death with highest accuracy.
+
+To view the model would require the KNIME tool, can be download from: https://www.knime.com/knime-analytics-platform
